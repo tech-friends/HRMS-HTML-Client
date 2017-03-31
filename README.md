@@ -2,6 +2,9 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/08998c1c41f44b88be291976b11c8694)](https://www.codacy.com/app/tech-friends/HRMS-HTML-Client?utm_source=github.com&utm_medium=referral&utm_content=tech-friends/HRMS-HTML-Client&utm_campaign=badger)
 
+<img src="https://travis-ci.org/tech-friends/HRMS-HTML-Client.svg?branch=master"/>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.0.
 
 ## Development server
